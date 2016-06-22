@@ -1,0 +1,2 @@
+Dependencies for Project 'Roby-Eva', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f40xx.s)(0x5209A73E)(--cpu Cortex-M4.fp -g --apcs=interwork -I "D:\Program Files (x86)\Keil_V5.0\ARM\RV31\INC"-I "D:\Program Files (x86)\Keil_V5.0\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include"-I "D:\Program Files (x86)\Keil_V5.0\ARM\Inc\ST\STM32F4xx"--list .\startup_stm32f40xx.lst --xref -o .\startup_stm32f40xx.o --depend .\startup_stm32f40xx.d)
